@@ -23,9 +23,9 @@ My journey into tech wasn't a straight line. I started in Med School 🩺, but r
 *   Deepening knowledge in System Architecture.
 
 ### 📫 Connect with me
-*   **Telegram:** [Твой_Ник]
-*   **Email:** [Твой_Email]
-*   **Location:** Russia (Ready for relocation to Smolensk)
+*   **Telegram:** @blizuk
+*   **Email:** blizuchenkoandrew@gmail.com
+*   **Location:** Russia, Smolensk
 
 ---
 *"From medical prescriptions to C# descriptions."* 😄

@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Andrew 👋
 
-<!--
-**BLIZUK/BLIZUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year **Computer Science student** at MPEI (Smolensk) and an aspiring **.NET Developer**.
 
-Here are some ideas to get you started:
+My journey into tech wasn't a straight line. I started in Med School 🩺, but realized my true passion lies in engineering and logic. I took a gap year to self-study math & coding from scratch, re-entered university, and haven't looked back since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+*   **Main Stack:** C# / .NET (WPF, MVVM), transitioning to ASP.NET Core.
+*   **Foundation:** Strong background in C/C++ and Assembly (I love low-level optimization!).
+*   **Algorithmic Coding:** Active participant in Competitive Programming (C++).
+*   **Teaching:** I tutor students in C/C++, helping them understand memory management and pointers.
+
+### 🛠 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-blue?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 🔭 Current Focus
+*   Porting my desktop skills (MVVM) to Web Development (ASP.NET Core).
+*   Deepening knowledge in System Architecture.
+
+### 📫 Connect with me
+*   **Telegram:** [Твой_Ник]
+*   **Email:** [Твой_Email]
+*   **Location:** Russia (Ready for relocation to Smolensk)
+
+---
+*"From medical prescriptions to C# descriptions."* 😄

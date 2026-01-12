@@ -24,7 +24,7 @@ My journey into tech wasn't a straight line. I started in Med School 🩺, but r
 
 ### 📫 Connect with me
 *   **Telegram:** [@blizuk](https://t.me/blizuk)
-*   **Email:** blizuchenkoandrew@gmail.com
+*   **Email:** blizuchenkoandrew@gmail.com ; blizuchenko.andrei@yandex.ru
 *   **Location:** Russia, Smolensk
 
 ---
